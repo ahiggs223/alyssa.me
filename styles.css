@@ -1,1 +1,11 @@
-styles.css
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,300,700,900);
+
+
+a, a:link, a:hover, a:visited, a:active {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+p, h1, h2, h3, h4, nav, body,footer {
+    font-family: 'Lato', Arial, sans-serif;
+}
